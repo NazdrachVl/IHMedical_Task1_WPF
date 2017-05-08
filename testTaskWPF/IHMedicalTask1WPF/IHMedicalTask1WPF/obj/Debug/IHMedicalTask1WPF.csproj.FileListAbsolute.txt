@@ -1,0 +1,14 @@
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\bin\Debug\IHMedicalTask1WPF.exe.config
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\bin\Debug\IHMedicalTask1WPF.exe
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\bin\Debug\IHMedicalTask1WPF.pdb
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF.csprojResolveAssemblyReference.cache
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\MainWindow.g.cs
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\App.g.cs
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF_MarkupCompile.cache
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF_MarkupCompile.lref
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\MainWindow.baml
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF.g.resources
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF.Properties.Resources.resources
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF.csproj.GenerateResource.Cache
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF.exe
+F:\testTaskWPF\IHMedicalTask1WPF\IHMedicalTask1WPF\obj\Debug\IHMedicalTask1WPF.pdb
